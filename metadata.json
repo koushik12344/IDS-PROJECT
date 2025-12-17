@@ -1,0 +1,5 @@
+{
+  "name": "IDS - Real-Time System",
+  "description": "A comprehensive Intrusion Detection System dashboard featuring real-time traffic monitoring, genetic algorithm feature selection visualization, and deep learning threat analysis.",
+  "requestFramePermissions": []
+}
